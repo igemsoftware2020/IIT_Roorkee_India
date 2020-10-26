@@ -1,0 +1,310 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+EMBOSS_003      -------MSKVLTGNETV--SIVGNFAKSK-------ATL-KEIASFAVVDGGVTEEF--	41
+EMBOSS_002      ------------------------------------------------------------	0
+EMBOSS_001      ----------------------------------------------------------MA	2
+EMBOSS_012      ----------------------------------------------------------MA	2
+EMBOSS_006      ----------------------------------------------------------MA	2
+EMBOSS_010      ----------------------------------------------------------MA	2
+EMBOSS_005      -----MSFNEKLSYTEHVVESPTTDFAIGFKDYGEQSDTINVLVNDVIATEAGYTVFRKN	55
+EMBOSS_011      ----------------------------------------------------------MT	2
+EMBOSS_008      -------MNILRSFTETVVTTPTDTFPISF-EYDEKYDAVHVFLNDVAVEDLGYTVSQVN	52
+EMBOSS_004      -------MNILRSFTETVVTTPTDTFSISF-EYDEKYDAVHVFLNDVAVEDLGYTVSQVN	52
+EMBOSS_007      MAYVEKEMNLKRSFVEYKVTQPTTNFALPF-EFVEAEQNLRVRLNGIDIEDLGYSFLVTN	59
+EMBOSS_009      -------MNILRSFTETVVTTPTDTFPISF-EYDEKYDAVHVFLNDVAVEDLGYTVSQVN	52
+                                                                            
+
+EMBOSS_003      -VTEAVKPKADKVYVDAELSKKANASALNKAGVGLGNVDNTSDANKPVST-AQKTALDLK	99
+EMBOSS_002      -------------------------------------MVAIVKPDFENIWASEGGV----	19
+EMBOSS_001      NPIFIPIAFAANGVKN-----PIQ-K---VRQVGQDPEDFTWDEGSPLIT--MTKIED--	49
+EMBOSS_012      NPIFIPIAFAANGVKN-----PIQ-K---VRQVGQDPEDFTWDEGSPLIT--MTKIED--	49
+EMBOSS_006      NPIFIPIAFAANGVKN-----PIQ-K---VRQVGQDPEDFTWDEGSPLIT--MTKIED--	49
+EMBOSS_010      NPIFIPMAFAANGIKN-----LIQ-K---VRQVGQDPEDFTWDEGAPLIT--MTKIED--	49
+EMBOSS_005      ALVIALEPAVTSGIVRLQRETNID-KSFHIFSAGAKFVGANMDANFEQILHSQQETRD--	112
+EMBOSS_011      NPTLITTPFAENG----------D-KNTIPESVGANPQNATMQAGFPPIT--QQKISE--	47
+EMBOSS_008      AVTLKIEPAIPEGTVRIERETDID-KMKYIFDAGALFIDQNVDADFKQIVHSQQEVRD--	109
+EMBOSS_004      AVTLKIEPAIPEGTVRIERETDID-KMKYIFDAGALFIDQNVDADFRQIVHSQQEVRD--	109
+EMBOSS_007      NITVQVTPAIPHGTLSISRETDID-KNLYKFTAGALFEARTMDKNFEQIRHSQQEVRD--	116
+EMBOSS_009      AVTLKVEPAITEGTVRIERETDID-KMKYIFDAGALFIDQNVDADFRQIVHSQQEVRD--	109
+                                                          . .               
+
+EMBOSS_003      ADKTALDLKADKTSLNKSGVGLGNVDNTADSAKPVSTAQKSALDK-------------KV	146
+EMBOSS_002      -----APP-----TLDQILSGWKQNQFPP---SEISNFLQKRVD----------S-----	51
+EMBOSS_001      ---GGKAP--KGQDVNGVLNALSEHVIYG---QNGNR-----------------YAWS--	82
+EMBOSS_012      ---GGKAP--KGQDVNGVLNALSEHVIYG---QNGNR-----------------YAWS--	82
+EMBOSS_006      ---GGKAP--KGQDFNGVLNALSEHVIYG---QNGNR-----------------YTWS--	82
+EMBOSS_010      ---GGKAP--KGQDFNGVLNALSEHVIYG---QNGNR-----------------YTWS--	82
+EMBOSS_005      ---GFDKL---YSDVMPLVKGLEDALAQA---DAASQAAKEAAEAAEEAASQSRSASNVI	163
+EMBOSS_011      ---GGIPP--ERNDFNGILNLYGQHIV--------------------HLNKGLPY----E	78
+EMBOSS_008      ---GFIKL---RGDVLPLVHGLQEALKQA---QEASEAAQDAADAATEAARTTKY-----	155
+EMBOSS_004      ---GFIKL---RGDVLPLVHGLQEALQQA---QEASEAAQEAAAAAEGAAQQTRMAEKV-	159
+EMBOSS_007      ---GFEKL---SDATYTIIDTLQDVGQAA---QDAADAAEQAAQAANDAAAQVNDKVSQV	167
+EMBOSS_009      ---GFIKL---RGDVLPLVHGLQEALQQA---QEASEAAQEAANAAEVAAAQTQY-----	155
+                                       :                                    
+
+EMBOSS_003      DLAGLLKTI---------EATPAIVHTG--------------------------------	165
+EMBOSS_002      AIAYLYQNGLPDWDKKIEYQKASLVKYE-GKHYISKTVN--------INKVPRAES-PDW	101
+EMBOSS_001      ------QDVVDEF---GGYALGAIIQSDDTTKEFRSLVA-------NNTVNPNNGLGGAW	126
+EMBOSS_012      ------QDVVDEF---GGYALGAIIQSDDTTKEFRSLVA-------NNTVNPNNGLGGAW	126
+EMBOSS_006      ------QDVIDEF---GGYALGAIVQSDDTTKEFRSLVA-------NNTVNPNNGLGGAW	126
+EMBOSS_010      ------QDVVDEF---GGYALGAIVQSNDTTKEFRSLIA-------NNTVNPNNGLGGAW	126
+EMBOSS_005      DRTGLTQQDINDV---LGVTTKLPAVWGRGT-IPSILDRINIKDYGAIGDGTLHTL-QEW	218
+EMBOSS_011      FDQAFANAI-------GGYPLNARLMLDNGD-IVKSTVP-------NNTNNPNSDM-TGW	122
+EMBOSS_008      YLKYFE-EG-------TPYPKFGRIMLSDGT-VVISLED-------ENSTDPNIDM-TKW	198
+EMBOSS_004      -------------------------------------ID-------KSGLTQQQIN-DAW	174
+EMBOSS_007      EIDYIHENG-------AALPHKDGIDYEENA-V----VV-------KGGVLQQWKG-GAW	207
+EMBOSS_009      YLKYFNPE--------IVYPKNARIMLDNGD-IVRSIVA-------NNIVNPNVDM-TGW	198
+                                                                            
+
+EMBOSS_003      ------------------------------------------------EGEIDCHKLDYG	177
+EMBOSS_002      TIAFDAYG----------------ASNDLRAEIAKIMGVDGYV-PF--------------	130
+EMBOSS_001      EVYSGQGSIPT---ATSTTAGITKVLNVLNSN----DV--G--------S----------	159
+EMBOSS_012      EVYSGQGSIPT---ATSTTAGITKVLNVLNSN----DV--G--------S----------	159
+EMBOSS_006      EVYSGQGSIPT---ATSTTAGITKVLNVLNSN----DV--G--------S----------	159
+EMBOSS_010      EVYSGQGSIPT---ATSTTAGITKVLNVLNSN----DV--G--------S----------	159
+EMBOSS_005      VTSGRFSNLLAIQMVFPNATALTDSIDWL-------------------------------	247
+EMBOSS_011      VKINSASQI-------------------------------------FDESGLSQQEINNG	145
+EMBOSS_008      VKSTDSVQVDSV--------------NALRKVK-------G-------------------	218
+EMBOSS_004      LTVENFGAKGD----G-----VTDDSAAF-QA--------YCDSPF-TGANIR-------	208
+EMBOSS_007      VNVGEQEVKKYLLVAGVDESELDDDYNYLMQRLAQIAVDKGWDASFVVDGNINQHERNTG	267
+EMBOSS_009      FNEGTNV---------------------------------G----F--------------	207
+                                                                            
+
+EMBOSS_003      QHLIRSDNAINAPPDTKITLLYVVKT----------------------------------	203
+EMBOSS_002      ---------------------YVKKSDPIMTSKAKAPSFEADVALTNGFSFKGYKSGMYS	169
+EMBOSS_001      ALSAAQGKVLN--DKINSLPAEPISKFCRVTGLNSSPSFSKN---------SGFSSVTRI	208
+EMBOSS_012      ALSAAQGKVLN--DKINSLPAEPISKFCRVTGLNSSPSFSKN---------SGFSSVTRI	208
+EMBOSS_006      ALSAAQGKVLN--DNMNNFLNKFSSSLIANNGSF-----SIP-----------------L	195
+EMBOSS_010      ALSAAQGKVLN--DKFNFQNSKNQSGYV-------------R-----------------L	187
+EMBOSS_005      ------------------------------------------------------------	247
+EMBOSS_011      VKSAAALRLLN--PNGEGERIYLISF----------------------------NEGQGE	175
+EMBOSS_008      --------LFH--NQKATTTSYVA--------------------------------GTGF	236
+EMBOSS_004      --------LA------NRRAVYIIKK-------------------------------QVD	223
+EMBOSS_007      VKSLNQLRLTK--PSKKGDRVFLASV----------------------------NEAQNE	297
+EMBOSS_009      VESIADMLAIN--NPHNGQVVYVKGYYAATNSA---------------------LAQPYS	244
+                                                                            
+
+EMBOSS_003      -----------------------------------HDEV-----GSGGIGQVLKPSDFEQ	223
+EMBOSS_002      LGGDLLFVSGGVTN--GRIKNT----PP---TLEMNDDTLVT------------------	202
+EMBOSS_001      GTGTYEFTMSTPMPDTNYLVML-----------------------SGAYGFNGA------	239
+EMBOSS_012      GTGTYEFTMSTPMPDTNYLVML-----------------------SGAYGFNGA------	239
+EMBOSS_006      G-------------NGTTIIVK-----------------------YGSTSVNGD------	213
+EMBOSS_010      G-------------DS-GLIIQ-----------------------WGVFTS-TK------	203
+EMBOSS_005      --------------------------------------------------------VTDY	251
+EMBOSS_011      GGGVFISKNKGTLVDDGGTILQ--SSNASIVYVRINFDSLTP-EMFGAKGDDIS---FDN	229
+EMBOSS_008      GGATYLWDANNTATDDGLSVIRVTGAATGAWLLQVHNKVLHA-TQAGLRAELLESDLIDQ	295
+EMBOSS_004      -------CKGKGIVGNGFGKQS-----------QAAYDLSSIRVMEG---DYTN---SNA	259
+EMBOSS_007      GGGEFIATQKAGLVDDGGLVIA--SPDPMLFWVRVHYDTVTP-EMFGAVGDNT----ADD	350
+EMBOSS_009      GGGHRIYVASRKTENDGFLCIN-------GWVLQVENNTVTP-EHAGAIGNNKD---FDQ	293
+                                                                            
+
+EMBOSS_003      GTISESS------SVGTDYEL------AKYPPTEP--------------LHGSRIRSIKP	257
+EMBOSS_002      TALLNKVIEQ----IKKDTQIPIGWSVITTNKKPPSDKDQLGYGTWKLDVQGRALVGAND	258
+EMBOSS_001      --------------------------------------------------SSINLANNFT	249
+EMBOSS_012      --------------------------------------------------SSINLANNFT	249
+EMBOSS_006      --------------------------------------------------SNATVN--F-	220
+EMBOSS_010      --------------------------------------------------TQSNLI--F-	210
+EMBOSS_005      CLGLRKCI-----------YAPRGTYVFNRPARTPHS------GSPNRVDSGCSLIGDGT	294
+EMBOSS_011      YLALQAAF-----KHPLPLEIPPKTYYTTR-SIWY--------------TSGKKIKGSGH	269
+EMBOSS_008      TTILQKCVDYMALIGGGVVQLPKGHIYAKAMAKS-----------------NVEVRGTFD	338
+EMBOSS_004      DLADIAFI-----NVGAEVR---NLQFVSSNL--------------------GTISG---	288
+EMBOSS_007      AIPLQKTM-----SCGRAIEFDKGRKYRSSKPIEM--------------FTGQKIKGNGA	391
+EMBOSS_009      SIPLNKVV-----NSGFDVSLSATTYYVSKPVRKW--------------KRGGKITGTGE	334
+                                                                      :     
+
+EMBOSS_003      -----------------------------------------------------IPITEFS	264
+EMBOSS_002      STAIN-------APEWTMDAD----------------SQHGEYEHTVTIAE---------	286
+EMBOSS_001      -----Q-----------------------------------TTTKFRVVCHYG-GDNT--	266
+EMBOSS_012      -----Q-----------------------------------TTTKFRVVCHYG-GDNT--	266
+EMBOSS_006      ------------------------------------------TTAFPSLCLNAQATLN--	236
+EMBOSS_010      ------------------------------------------PLAFPNALLSITGNLN--	226
+EMBOSS_005      HTVFTRSDKRLATRIFKVDGSEDYEAYDDVNRDEAVFNVHGCYQIFRNFCISSSTIGFY-	353
+EMBOSS_011      --------------------------------------------QKSVICKTTNSTE---	282
+EMBOSS_008      --------------------------------------------SFVS-VGSEADINNLR	353
+EMBOSS_004      -----------------------------------------------------INVSGYN	295
+EMBOSS_007      --------------------------------------------KITKYTASKTGIT--G	405
+EMBOSS_009      --------------------------------------------LTTKIVKTTNNIEGFG	350
+                                                                            
+
+EMBOSS_003      TVSV----AEGF---------EYSVLAFDENQKYLGRS------SFMVW-SGNPRLTYPN	304
+EMBOSS_002      -------L-PRHRMSFPADDQLIESFDLERNKDLQGRGYDAKSSQESKWASGWAFTNY--	336
+EMBOSS_001      ---------QGQ------------------------------------------------	269
+EMBOSS_012      ---------QGQ------------------------------------------------	269
+EMBOSS_006      ---------SVS------------------------------------------------	239
+EMBOSS_010      ---------SNT------------------------------------------------	229
+EMBOSS_005      ---------LGQSASSAENSAVYM----------------------SQW-SELQFKG---	378
+EMBOSS_011      ---------TDLPSSFAKDAVIIA----------------------RHW-SANDYAHYCE	310
+EMBOSS_008      TVVQTATYKHGTFWHSSDGSQVYL----------------VPE----------------N	381
+EMBOSS_004      -----TTINNVN------------------------------------F-TGF--KNQVH	311
+EMBOSS_007      -----RTDPSGNPYDYDQDCAVVF----------------------GAW-YGW--YSYID	435
+EMBOSS_009      -----KTTINGKVMNFDVDAVLIL----------------MPDVSQSDW-YAQ--QL--H	384
+                                                                            
+
+EMBOSS_003      -----AKFIAV------------------AVKKVGQNVPITPEEATQAKLTVTTL-----	336
+EMBOSS_002      -VGEGKPMNVVQP-----------------------------------------------	348
+EMBOSS_001      FDPLFINA----------------------------------------------------	277
+EMBOSS_012      FDPLFINA----------------------------------------------------	277
+EMBOSS_006      FNPL--------------------------------------------------------	243
+EMBOSS_010      PDVIGIDFDLSTATK-------------------------------------TSIK----	248
+EMBOSS_005      -VGTGMLFAAAYGNHYNRVNNIHFIECGIDVEMRGGKYDSSPTQANNNRNTFSNIRSNRS	437
+EMBOSS_011      FDGFLVTS---------------TVK----------------------------------	321
+EMBOSS_008      VTGAGVSNLKMLGSRLG----STSSNCGFGIKIIGDSFTAKWV-----------------	420
+EMBOSS_004      VVGASVRFSVSDLTSIG----AAN------------------------------------	331
+EMBOSS_007      IENLTIQKEAVLGA---------D------------------------------------	450
+EMBOSS_009      LNGFSLSYDSS-LT---------N------------------------------------	398
+                                                                            
+
+EMBOSS_003      ----GQTSGGSKLLIAWGA---------------------------------------TM	353
+EMBOSS_002      ------------------------------------------------------------	348
+EMBOSS_001      ------------------------------------------------------------	277
+EMBOSS_012      ------------------------------------------------------------	277
+EMBOSS_006      -----------------DD-----------------------------------------	245
+EMBOSS_010      ----------------TGA-----------------------------------------	251
+EMBOSS_005      KVGLWCKSGDTNRFTTWDGEGCGATPTNNTFGAILGLPLNPDNVALTNGVFILHGKGQLN	497
+EMBOSS_011      -----------------------------------------------------CEFGLYA	328
+EMBOSS_008      ----------------------------------------------DTSGFRLEGLYIRG	434
+EMBOSS_004      -----------------------------------------------------AGFYFRD	338
+EMBOSS_007      -----------------------------------------------------VGKVFFA	457
+EMBOSS_009      -----------------------------------------------------RGYGLYA	405
+                                                                            
+
+EMBOSS_003      ------------------------------------------------------------	353
+EMBOSS_002      -----------SQVKF--------------------------------------------	353
+EMBOSS_001      ------------------------------------------------------------	277
+EMBOSS_012      ------------------------------------------------------------	277
+EMBOSS_006      -----------AGCGVTWTRTGLTLRNGT-------------------------------	263
+EMBOSS_010      -----------AQVGASW------------------------------------------	258
+EMBOSS_005      RLM-NCV---TEACDVELYNDH--YRNSFTGVGFKEN--VYLGKTVINKQVPAYYQSPHT	549
+EMBOSS_011      PRIAESSF------------SNFKIHNAIKGFYSDDAWMISMIRVTSSSDRPYIVNM---	373
+EMBOSS_008      KDGVSCSNHYFENCNFLDARR--------------NTAALVYCHDVTFKNCTFQQLKPEL	480
+EMBOSS_004      KQNDQSTTAYFNQCSWQWGNKAVVFAKEAYGCVFRD-------NIVEYMDGGFEASV---	388
+EMBOSS_007      PYISMSSL------------KSVVVKGGEYGFYGEDLWMLNWTRCEAYSKCGFYVGT---	502
+EMBOSS_009      PLICQSSL------------RYISISNCANGVYSVDSWMVTWERVEASADKPFIFGAPET	453
+                                                                            
+
+EMBOSS_003      ------------------------------------------------------------	353
+EMBOSS_002      ------------------------------------------------------------	353
+EMBOSS_001      ------------------------------------------------------------	277
+EMBOSS_012      ------------------------------------------------------------	277
+EMBOSS_006      ------------------------------------------------------------	263
+EMBOSS_010      ------------------------------------------------------------	258
+EMBOSS_005      LFTPNFHSLVNLNTWAFPTVTSLG--FTVKSLSFTNATGVT--RTSRDN----SSCY---	598
+EMBOSS_011      -----GTSITMNSCWAINARGESSYCYEFNNLYYSTLISCGADNNGLDGSPIKALYRV--	426
+EMBOSS_008      TWVYLFDIEPN------PA--------TTDTVYNVTLINCVFNALASAGAEPTVLVKEQN	526
+EMBOSS_004      -----FSNCIFEGNWCESTRSGNAVDWIVNT-SHQQLFNC--------------------	422
+EMBOSS_007      -----GTSNQFNTCWSKETKEG-YSAFRLHNLTYSSLINCCAEHVGEDGAPAEAAYHI--	554
+EMBOSS_009      NWLPNNTSQTFISCWAKNAKGSDSYAWYLLNMQYSTFISCGNDFNGTDGSPINSLIYM--	511
+                                                                            
+
+EMBOSS_003      ------------------------------------------------------------	353
+EMBOSS_002      ------------------------------------------------------------	353
+EMBOSS_001      ------------------------------------------------------------	277
+EMBOSS_012      ------------------------------------------------------------	277
+EMBOSS_006      ------------------------------------------------------------	263
+EMBOSS_010      ------------------------------------------------------------	258
+EMBOSS_005      -----IDERLVDLGSVVASG--------------------------IIEYILWADSDA--	625
+EMBOSS_011      ---LNSSITFISCASENNHAYKIFHGQGASVTIVKMT-AMRFYNKYKVSNPVWGDENALF	482
+EMBOSS_008      TPTGSPNVKFLNCRFKGKATI-RNNCANGWKDCIVDNCEFD-------------------	566
+EMBOSS_004      -------------------KFGVNYIRAPWLDRTNPNDIAGSNSAGGI-Q----------	452
+EMBOSS_007      ---TNSDLTMIGCGIENIHAYNLIRIGYSWVTIENPSFIYGINNKYRH-G----TYTGLI	606
+EMBOSS_009      ---RYSDVSFIDMGFEFAHAYNLLYCEDSVANFVAPN-IVGFENKYQR-EVTWNTYNAMF	566
+                                                                            
+
+EMBOSS_003      ------------------------------------------------------------	353
+EMBOSS_002      ------------------------------------------------------------	353
+EMBOSS_001      ------------------------------------------------------------	277
+EMBOSS_012      ------------------------------------------------------------	277
+EMBOSS_006      --------------------------ANTLNI----------------------------	269
+EMBOSS_010      --------------------------LSGKKI----------------------------	264
+EMBOSS_005      ------------------------------------------------------SSTANI	631
+EMBOSS_011      DLRSETRLDIKDSAFDGLLNT-----DTSTSPSWINITDTSYLN----------YSNVRV	527
+EMBOSS_008      -------TLAFSTTTTGYV-----------------------------------------	578
+EMBOSS_004      ---AKNSAVAVTGATGAKIRL-NTNGLSTGFADWFGVSNSPLSSRALLLTTQDRASGSNY	508
+EMBOSS_007      DVSSSDSVVTLRG---GHITATNSGTFADAV--------------------RVGGGTFNY	643
+EMBOSS_009      NCV-SNSTVKISG---GRINTMYTSTNSTTV---------------AAFSMCQGNSKLIV	607
+                                                                            
+
+EMBOSS_003      ------------------------------------------------------------	353
+EMBOSS_002      ------------------------------------------------------------	353
+EMBOSS_001      ------------------------------------------------------------	277
+EMBOSS_012      ------------------------------------------------------------	277
+EMBOSS_006      ------------------------------------------------------------	269
+EMBOSS_010      ------------------------------------------------------------	264
+EMBOSS_005      EVTISADSA----------------------------------------------ASNLG	645
+EMBOSS_011      NIPITGASVNDTTAFGVKWGSVT-----TVIL--------------DFGT--------YK	560
+EMBOSS_008      ----ITSGR---FTNNTLWGKDLKGFSYNTLVTGDFLIEGNRFQDTTFENNIVATQASFG	631
+EMBOSS_004      DTPIVIAA-----PNGCLWERNRSATDYTPVTKRRLI-----------GANADNTAAYYG	552
+EMBOSS_007      ETPLWNNVG---FPDDSSGFKI-RISNYAAIM--NLT-----------GF----DGRKYT	682
+EMBOSS_009      DLPIR-------FEGSNRLEEIAKTTSSTALL--PAF-----------GMY---CDSTSK	644
+                                                                            
+
+EMBOSS_003      ------------------------------------------------------------	353
+EMBOSS_002      ------------------------------------------------------------	353
+EMBOSS_001      ------------------------------------------------------------	277
+EMBOSS_012      ------------------------------------------------------------	277
+EMBOSS_006      ------------------------------------------------------------	269
+EMBOSS_010      ------------------------------------------------------------	264
+EMBOSS_005      ------FASKFAVAAHRTS------------------A----------------KTLTRY	665
+EMBOSS_011      IESCVNLPSNL-----------Y------NPLSTPTNETYSSIFTRG-SIRENGRELSTE	602
+EMBOSS_008      VNTFLGTATVIQPVDRRTITQQYRNLPDISGVKSPINDAYFNTEIRNFNLDLNFKEVLTV	691
+EMBOSS_004      VDTYTKRVRKWSTFDHT----------------TNTSGQFLAPIMLTYDSAAT-----TQ	591
+EMBOSS_007      FNGRSKK---WDIH---------------------TKAKFLNGLQAN--LL-G-----TT	710
+EMBOSS_009      VDGYINNDHIVLAP---------------------TNDRFLTTSQIRSSPI-N-----PQ	677
+                                                                            
+
+EMBOSS_003      ------------------------------------------------------------	353
+EMBOSS_002      ------------------------------------------------------------	353
+EMBOSS_001      ------------------------------------------------------------	277
+EMBOSS_012      ------------------------------------------------------------	277
+EMBOSS_006      ------------------------------------------------------------	269
+EMBOSS_010      ------------------------------------------------------------	264
+EMBOSS_005      SLHTMYSLRATGQGTG-------DSGGVTATVVHGGSS----------------------	696
+EMBOSS_011      NLN---NLRYLGT--ITFKQSQSAEATLANNYPENGGAWVIQQYSDVATDSSNVNTNTTQ	657
+EMBOSS_008      PLRSGCKI----TITGAD----ATTNAGSKAYVELFVNSDNST--TITAHNEVINDPLYG	741
+EMBOSS_004      QVNAGWSITKEAGTTGIYILQRTASTVAPMANPN-FVVGGIFT--G-SATG-----TLA-	641
+EMBOSS_007      HLN---NIRKDFYI-G--TQNKGNNGSVANGYPFDGFGGTVLN--F-SDEDAAQYSNTAQ	761
+EMBOSS_009      DV----NLNDIFGFAGNYAQPSGALAQASRNYPESFVATDILS--M-SNT------QIAG	724
+                                                                            
+
+EMBOSS_003      --------GDLHTCVNISGAWSSWSRIGSVIP------------KDA-------------	380
+EMBOSS_002      ----------------------IWTRIT--------------------------------	359
+EMBOSS_001      ------------------------VVIN--------------------------------	281
+EMBOSS_012      ------------------------VVIN--------------------------------	281
+EMBOSS_006      ----------------------SWLAIGY-------------------------------	276
+EMBOSS_010      ----------------------SWIAIGY-------------------------------	271
+EMBOSS_005      ------GRDLILRIQAPAYALS-------------------NVTATVRRQV---------	722
+EMBOSS_011      IAIRKDSNRIYFRCAPYGGIFTPWYKIYHSG----------NTTVDANGFLKAI------	701
+EMBOSS_008      VKY-------------------SWSGRTLS---------LAGITLSANTFIVKVD-----	768
+EMBOSS_004      --------AVSYSLQAIETYSGSWTVYKEAAGFKIAFRDQTGALVNVNRFTAM-------	686
+EMBOSS_007      LALSAVSNRVFFRRAAYEQALGSWFEFRTSA----------NTTVDANGFVKNASPIVKL	811
+EMBOSS_009      VSYDGGGGNLYFRVKNWSFGINAWRQILSSG----------NTTVDANGFIKAASPIVKL	774
+                                                                            
+
+EMBOSS_003      ---------------------NEGD-----HLVFRSGKWVAEAPKPTV------------	402
+EMBOSS_002      ------------------------------------------------------------	359
+EMBOSS_001      ------------------------------------------------------------	281
+EMBOSS_012      ------------------------------------------------------------	281
+EMBOSS_006      ------------------------------------------------------------	276
+EMBOSS_010      ------------------------------------------------------------	271
+EMBOSS_005      -------------------------------TG---------------------------	724
+EMBOSS_011      ------------------------------------------------------------	701
+EMBOSS_008      --------------------------VFSALPQYSKVTWLI-------------------	783
+EMBOSS_004      FT---------------------------VVSGF--------------------------	693
+EMBOSS_007      FADRIELNDDAEKQNIEFEKLGVGDYLIKGSSGFSDNGWYIETPKDANGNVLFSVIYATL	871
+EMBOSS_009      FADKIELNDEAAEQNIIFEKLGVGDYLIKNSAGFSNDGWYIEAPKDANGNNLFALVYKTL	834
+                                                                            
+
+EMBOSS_003      ------------------------------------------------	402
+EMBOSS_002      ------------------------------------------------	359
+EMBOSS_001      ------------------------------------------------	281
+EMBOSS_012      ------------------------------------------------	281
+EMBOSS_006      ------------------------------------------------	276
+EMBOSS_010      ------------------------------------------------	271
+EMBOSS_005      ------------------------------------------------	724
+EMBOSS_011      ------------------------------------------------	701
+EMBOSS_008      ------------------------------------------------	783
+EMBOSS_004      ------------------------------------------------	693
+EMBOSS_007      ENGDISVKTYQKKFDLETASIVADLEQPVDITVGRWIDLRLNEVSAN-	918
+EMBOSS_009      ENGDISVKTYAKKFDIETASIVADISKPVDIKKDRWIDIRLNDINLKD	882
+                                                                

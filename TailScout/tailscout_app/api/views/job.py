@@ -24,6 +24,7 @@ class JobViewSet(viewsets.ModelViewSet):
         # Directory
         directory = str(f"{new_job_id}_folder")
         current_directory = os.getcwd()
+        print(current_directory)
         # Parent Directory path
         parent_dir = f"{current_directory}/tailscout_app/"
 
