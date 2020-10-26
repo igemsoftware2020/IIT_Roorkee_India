@@ -63,8 +63,7 @@ def search_phage_tails_from_bacterium(input_bacteria):
     # fname = os.path.join(dname, 'sequence_phages.fasta')
     # print("sequence_phages.fasta location")
     # print(fname)
-    fasta_dir = os.getcwd()
-    file = open("/home/ubuntu/IIT_Roorkee_India/TailScout/tailscout_app/sequence_phages.fasta")
+    file = open("/home/mihir/Desktop/tailscout/tailscout/tailscout_app/sequence_phages.fasta")
     line = file.readline()
     ans_lists = []
     while line != '':
@@ -91,7 +90,7 @@ def amino_seq_finder(gene_code):
     # else:
         #  file_location = os.path.join(os.path.dirname(sys.executable), 'sequence_phages.fasta')
     amino_seq = ''
-    file = open("/home/ubuntu/IIT_Roorkee_India/TailScout/tailscout_app/sequence_phages.fasta")
+    file = open("/home/mihir/Desktop/tailscout/tailscout/tailscout_app/sequence_phages.fasta")
     found_it = False
     line = file.readline()
     while line != '':
