@@ -1,11 +1,11 @@
 
 
-
 # MODULE FOR READING AND WRITING CSV FILES
 import csv
- 
+
 # FOR INCLUDING SUB MODULES OF OS LIKE OS.PATH SO AS TO DEAL WITH FILENAME, PATHS AND DIRECTORIES
-import os,sys
+import os
+import sys
 import argparse
 
 parser = argparse.ArgumentParser(
@@ -18,14 +18,15 @@ args = parser.parse_args()
 bacteria = str(args.bacteria)
 filename = str(args.filename)
 
- 
+
 class Gene:
-    def __initiate__(self,bacteria_name, gene_code, virus_name,gene_name): # constructor for gene class
+    # constructor for gene class
+    def __initiate__(self, bacteria_name, gene_code, virus_name, gene_name):
         self.gene_code = gene_code
         self.virus_name = virus_name
         self.gene_name = gene_name
         self.bacteria_name = bacteria_name
-# FUNCTION FOR READING AND EDITING CSV FILE       
+# FUNCTION FOR READING AND EDITING CSV FILE
 # def load_csv():
 #     if os.path.isfile('phage_details.csv'):
 #         file_location = 'phage_details.csv'
@@ -46,14 +47,14 @@ class Gene:
 #         if bacteria_name not in bacteria_dict:
 #             bacteria_dict[bacteria_name] = set()
 #         bacteria_dict[bacteria_name].add(gene_code)
- 
+
 #     return genes_info_dict,bacteria_dict
 
 
 # SEARCHES FOR TAIL FIBER PROTEINS FROM FASTA FILE
- 
+
 def search_phage_tails_from_bacterium(input_bacteria):
-    
+
     # if os.path.isfile('sequence_phages.fasta'):
     #     file_location = 'sequence_phages.fasta'
     # else:
@@ -64,7 +65,7 @@ def search_phage_tails_from_bacterium(input_bacteria):
     # print("sequence_phages.fasta location")
     # print(fname)
     fasta_dir = os.getcwd()
-    file = open("/home/ubuntu/IIT_Roorkee_India/TailScout/tailscout_app/sequence_phages.fasta")
+    file = open(f"{fasta_dir}/sequence_phages.fasta")
     line = file.readline()
     ans_lists = []
     while line != '':
@@ -80,18 +81,21 @@ def search_phage_tails_from_bacterium(input_bacteria):
                 ans_lists.append(gene_code)
         line = file.readline()
     return ans_lists
-my_records = search_phage_tails_from_bacterium(input_bacteria = bacteria)
 
- 
-# FINDING AMINO ACID SEQUENCE FROM FASTA FILE 
- 
+
+my_records = search_phage_tails_from_bacterium(input_bacteria=bacteria)
+
+
+# FINDING AMINO ACID SEQUENCE FROM FASTA FILE
+
 def amino_seq_finder(gene_code):
     # if os.path.isfile('sequence_phages.fasta'):
     #    file_location = 'sequence_phages.fasta'
     # else:
-        #  file_location = os.path.join(os.path.dirname(sys.executable), 'sequence_phages.fasta')
+    #  file_location = os.path.join(os.path.dirname(sys.executable), 'sequence_phages.fasta')
     amino_seq = ''
-    file = open("/home/ubuntu/IIT_Roorkee_India/TailScout/tailscout_app/sequence_phages.fasta")
+    fasta_dir = os.getcwd()
+    file = open(f"{fasta_dir}/sequence_phages.fasta")
     found_it = False
     line = file.readline()
     while line != '':
@@ -109,8 +113,8 @@ def amino_seq_finder(gene_code):
         line = file.readline()
     return amino_seq
 
-   
-   ## To retrieve the sequence in fasta file
+   # To retrieve the sequence in fasta file
+
 
 s = ""
 for gene_code in my_records:
@@ -118,7 +122,6 @@ for gene_code in my_records:
     s = s + '>' + '\n' + seq + '\n'
 file_name = filename + ".fasta"
 with open(file_name, "w+") as file:
-	file.writelines(s)
+    file.writelines(s)
 
     # UPDATE JOB STATUS HERE!
-	
