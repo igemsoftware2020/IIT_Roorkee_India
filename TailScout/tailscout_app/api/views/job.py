@@ -24,10 +24,10 @@ class JobViewSet(viewsets.ModelViewSet):
 
         # Directory
         directory = str(f"{new_job_id}_folder")
-        current_directory = os.getcwd()
-        print(current_directory)
+        # current_directory = os.getcwd()
+        # print(current_directory)
         # Parent Directory path
-        parent_dir = f"{current_directory}/tailscout_app/"
+        parent_dir = "/home/ubuntu/IIT_Roorkee_India/TailScout/tailscout_app/"
 
         # Path
         path = os.path.join(parent_dir, directory)
@@ -38,7 +38,7 @@ class JobViewSet(viewsets.ModelViewSet):
         except OSError as error:
             print("Directory '%s' can not be created" % directory)
 
-        os.chdir(f"{current_directory}/tailscout_app/")
+        os.chdir("/home/ubuntu/IIT_Roorkee_India/TailScout/tailscout_app/")
 
         files = ['genee.py', 'clustalo.py', 'phage_details.csv',
                  'jpred.pl', 'sequence_phages.fasta']
@@ -50,7 +50,7 @@ class JobViewSet(viewsets.ModelViewSet):
         fname2 = os.path.join(dname, f'../../{new_job_id}_folder/clustalo.py')
         fname3 = os.path.join(dname, f'../../{new_job_id}_folder/jpred.pl')
 
-        os.chdir(f"{current_directory}/tailscout_app/{new_job_id}_folder")
+        os.chdir(f"/home/ubuntu/IIT_Roorkee_India/TailScout/tailscout_app/{new_job_id}_folder")
 
         print("from job py")
         print(os.getcwd())
@@ -80,6 +80,30 @@ class JobViewSet(viewsets.ModelViewSet):
             file.writelines(L)
             file.close()
 
+        elif bacteria == "klebsiella pnuemoniae":
+            file = open(f"{new_job_id}a.fasta", "w+")
+            L = [">MTTNTPKYGGLLTDIGAAALATASAAGKKWQPTHMLIGDAGGAPGDTPDPLPSAAQKSLINQRHRAQLNRLFVSDKNANTLVAEVV" + "\n" + "LPVEVGGFWIREIGLQDADGKFVAVSNCPPSYKAAMESGSARTQTIRVNIALSGLENVQLLIDNGIIYATQDWVKEKVAADFKGRK" + "\n" + "ILAGNGLLGGGDLSADRSIGLAPSGVTAGSYRSVTVNANGVVTQGSNPTTLAGYAIGDAYTKADTDGKLAQKANKATTLAGYGITD" + "\n" + "ALRVDGNAVSSSRLAAPRSLAASGDASWSVTFDGSANVSAPLSLSATGVAAGSYPKVTVDTKGRVTAGMALAATDIPGLDASKLVS" + "\n" + "GVLAEQRLPVFARGLATAVSNSSDPNTATVPLMLTNHANGPVAGRYFYIQSMFYPDQNGNASQIATSYNATSEMYVRVSYAANPSI" + "\n" + "REWLPWQRCDIGGSFTKEADGELPGGVNLDSMVTSGWWSQSFTAQAASGANYPIVRAGLLHVYAASSNFIYQTYQAYDGESFYFRC" + "\n" + "RHSNTWFPWRRMWHGGDFNPSDYLLKSGFYWNALPGKPATFLGGTIDVVGKANFSNELTAKTSINVMNDGNSHLFFRKADGTEKGL" + "\n" + "LYVDDPGNVTIRAKGGSGPTWNFWESGSCQFPGAISNFNGVNSTTNYPGGGIGAYLNTAGLTSRFSNGAYVSLYFQEYVGSYHQAI" + "\n" + "LNVNGYGQDNSFYFRAGGDFICTRNGSFDNVEIRSDRRAKSDIKVIENALEKVEKLTGNTYELHNTSGGTTRSAGLIAQEVQEVLP" + "\n" + "EAVTQDIEADGGLLRLNYNSVIALLVESVKELSAEVKELKSQLK"]
+            file.writelines(L)
+            file.close()
+
+        elif bacteria == "escherichia coli":
+            file = open(f"{new_job_id}a.fasta", "w+")
+            L = [">MTTNTPKYGGLLTDIGAAALATASAAGKKWQPTHMLIGDAGGAPGDTPDPLPSAAQKSLINQRHRAQLNRLFVSDKNANTLVAEVV" + "\n" + "LPVEVGGFWIREIGLQDADGKFVAVSNCPPSYKAAMESGSARTQTIRVNIALSGLENVQLLIDNGIIYATQDWVKEKVAADFKGRK" + "\n" + "ILAGNGLLGGGDLSADRSIGLAPSGVTAGSYRSVTVNANGVVTQGSNPTTLAGYAIGDAYTKADTDGKLAQKANKATTLAGYGITD" + "\n" + "ALRVDGNAVSSSRLAAPRSLAASGDASWSVTFDGSANVSAPLSLSATGVAAGSYPKVTVDTKGRVTAGMALAATDIPGLDASKLVS" + "\n" + "GVLAEQRLPVFARGLATAVSNSSDPNTATVPLMLTNHANGPVAGRYFYIQSMFYPDQNGNASQIATSYNATSEMYVRVSYAANPSI" + "\n" + "REWLPWQRCDIGGSFTKEADGELPGGVNLDSMVTSGWWSQSFTAQAASGANYPIVRAGLLHVYAASSNFIYQTYQAYDGESFYFRC" + "\n" + "RHSNTWFPWRRMWHGGDFNPSDYLLKSGFYWNALPGKPATFMNQYSGNDSKGKPGLGAGCGGASLGQSMPQSVRKHKHESGWGEHY" + "\n" + "KRSDARNGCTVRNGYLGSNRSDYDNYKYFTNDGDEVEPANIRDSFGTMNTEGLMGDENRPWSIALNFVIKVR"]
+            file.writelines(L)
+            file.close()
+
+        elif bacteria == "campylobacter jejuni":
+            file = open(f"{new_job_id}a.fasta", "w+")
+            L = [">MTTNTPKYGGLLTDIGAAALATASAAGKKWQPTHMLIGDAGGAPGDTPDPLPSAAQKSLINQRHRAQLNRLFVSDKNANTLVAEVV" + "\n" + "LPVEVGGFWIREIGLQDADGKFVAVSNCPPSYKAAMESGSARTQTIRVNIALSGLENVQLLIDNGIIYATQDWVKEKVAADFKGRK"  + "\n" + "ILAGNGLLGGGDLSADRSIGLAPSGVTAGSYRSVTVNANGVVTQGSNPTTLAGYAIGDAYTKADTDGKLAQKANKATTLAGYGITD"  + "\n" + "ALRVDGNAVSSSRLAAPRSLAASGDASWSVTFDGSANVSAPLSLSATGVAAGSYPKVTVDTKGRVTAGMALAATDIPGLDASKLVS" + "\n"+ "GVLAEQRLPVFARGLATAVSNSSDPNTATVPLMLTNHANGPVAGRYFYIQSMFYPDQNGNASQIATSYNATSEMYVRVSYAANPSI" + "\n" + "REWLPWQRCDIGGSFTKEADGELPGGVNLDSMVTSGWWSQSFTAQAASGANYPIVRAGLLHVYAASSNFIYQTYQAYDGESFYFRC"+"\n" + "RHSNTWFPWRRMWHGGDFNPSDYLLKSGFYWNALPGKPATFLSNDGLKNPYYQVDINSSKQVDNISFQLFGTSATNPFLYSKDCKI" + "\n" + "ELFIENTIVKTFNIKGSSGNNSPVNINIDYKDGMFLISVLDSINYINNRINKNAELLTGSGKPNFSLNPNKIGSLYSDTTNKAVYM" + "\n" + "CIDNTSGANKWVNIVTGDEIKPNLRKIEITCNVRLRSGQYGGCMSGVKIGFDNGYASTKQIVKGLNSGQILLSLDGLGNLSGYSEV" + "\n" + "SSLTPSSQDIKVDVDTTGIYNDPSYHCVTNIFKEYLGNADQCSLWSDASVKQLKITLLSEKIPNKILYVGDGYYGQTSVSDVKAIW" + "\n" + "YYVNDNGDKIEGSIDNDLEISNNDSETNDSSYIYAFNIN"]
+            file.writelines(L)
+            file.close()
+
+        else:
+            return Response(
+            {'url': "http://ec2-13-233-147-170.ap-south-1.compute.amazonaws.com:8000/"},
+            status=status.HTTP_200_OK
+        )
+
         files = [f'{new_job_id}a.fasta']
         for f in files:
             shutil.copy(f, f"{new_job_id}_folder")
@@ -96,7 +120,7 @@ class JobViewSet(viewsets.ModelViewSet):
 
         new_job.save()
 
-        os.chdir(current_directory)
+        os.chdir("/home/ubuntu/IIT_Roorkee_India/TailScout/")
 
         return Response(
             {'url': url},

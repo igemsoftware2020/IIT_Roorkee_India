@@ -124,12 +124,12 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
+# STATIC_URL = '/home/ubuntu/IIT_Roorkee_India/TailScout/static/'
 STATIC_URL = 'static/'
-# STATIC_ROOT = 'static/'
 
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'frontend/build/static'),
-    os.path.join(BASE_DIR, 'frontend/build/assets'),
+    # '/home/ubuntu/IIT_Roorkee_India/TailScout/frontend/build/static'
 ]
 
 CORS_ALLOW_ALL_ORIGINS = True

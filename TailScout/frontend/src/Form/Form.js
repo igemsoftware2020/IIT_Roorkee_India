@@ -101,7 +101,7 @@ const Form = () => {
                         <button type="submit" href="/" disabled={loading}>
                             {
                                 loading
-                                    ? "Loading"
+                                    ? "Loading..."
                                     : "Submit"
                             }
                         </button>

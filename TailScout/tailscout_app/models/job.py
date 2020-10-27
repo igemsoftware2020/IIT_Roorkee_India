@@ -9,12 +9,14 @@ class Job(models.Model):
 
     # choices for bacteria
     BACTERIA_1 = 'acinetobacter baumannii'
-    BACTERIA_2 = 'B2'
-    BACTERIA_3 = 'B2'
+    BACTERIA_2 = 'klebsiella pnuemoniae'
+    BACTERIA_3 = 'escherichia coli'
+    BACTERIA_4 = 'campylobacter jejuni'
     BACTERIA_CHOICES = [
         (BACTERIA_1, 'Bacteria_1'),
         (BACTERIA_2, 'Bacteria_2'),
         (BACTERIA_3, 'Bacteria_3'),
+        (BACTERIA_4, 'Bacteria_4'),
     ]
 
     # choices for status
