@@ -1,0 +1,6 @@
+db.sqlite3
+*.pyc
+env/
+node_modules
+__pycache__/
+tailscout_app/*_folder/
