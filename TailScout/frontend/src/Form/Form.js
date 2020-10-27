@@ -3,6 +3,7 @@ import axios from 'axios'
 
 import { API_JOBS } from "../api-links"
 import './Form.css'
+import loadingImg from '../images/loading.gif'
 
 const Form = () => {
 
@@ -107,7 +108,7 @@ const Form = () => {
                     </div>
                     {
                         loading && <img
-                            src="/assets/images/loading.gif"
+                            src={loadingImg}
                             style={{ width: "50px" }}
                             alt="Loading GIF"
                         />

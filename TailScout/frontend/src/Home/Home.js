@@ -1,5 +1,10 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import one from '../images/1.png'
+import two from '../images/2.png'
+import three from '../images/3.png'
+import walktroughVideo from '../video/walkthrough_edited.mp4'
+
 import './Home.css'
 
 const Home = () => {
@@ -38,7 +43,7 @@ const Home = () => {
                     <div class="hero-right">
                         <video width="445" height="250" controls class="hero-video">
                             <source
-                                src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+                                src={walktroughVideo}
                                 type="video/mp4"
                             />
                             Your browser does not support the video tag.
@@ -61,7 +66,7 @@ const Home = () => {
                         <div class="col-lg-4 feature-box">
                             <div class="feature-step">1</div>
                             <img
-                                src="/assets/images/1.png"
+                                src={one}
                                 alt="Generic placeholder"
                                 width="140"
                                 height="140"
@@ -71,7 +76,7 @@ const Home = () => {
                         <div class="col-lg-4 feature-box">
                             <div class="feature-step">2</div>
                             <img
-                                src="/assets/images/2.png"
+                                src={two}
                                 alt="Generic placeholder"
                                 width="140"
                                 height="140"
@@ -81,7 +86,7 @@ const Home = () => {
                         <div class="col-lg-4 feature-box">
                             <div class="feature-step">3</div>
                             <img
-                                src="/assets/images/3.png"
+                                src={three}
                                 alt="Generic placeholder"
                                 width="140"
                                 height="140"
@@ -104,7 +109,7 @@ const Home = () => {
                         <div class="col-md-5 featurette-image-container">
                             <img
                                 class="featurette-image img-fluid mx-auto"
-                                src="/assets/images/1.png"
+                                src={one}
                                 alt="Generic placeholder"
                             />
                         </div>
@@ -128,7 +133,7 @@ const Home = () => {
                         <div class="col-md-5 order-md-1 featurette-image-container">
                             <img
                                 class="featurette-image img-fluid mx-auto"
-                                src="/assets/images/2.png"
+                                src={two}
                                 alt="Generic placeholder"
                             />
                         </div>
@@ -150,7 +155,7 @@ const Home = () => {
                         <div class="col-md-5 featurette-image-container">
                             <img
                                 class="featurette-image img-fluid mx-auto"
-                                src="/assets/images/3.png"
+                                src={three}
                                 alt="Generic placeholder"
                             />
                         </div>

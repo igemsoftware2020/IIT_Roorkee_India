@@ -1,6 +1,6 @@
 import { BrowserRouter, Link } from "react-router-dom"
 import Router from './routes'
-
+import igemLogo from './icon/igem.png'
 import './App.css';
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
         <nav className="navbar navbar-expand-md navbar-light fixed-top bg-light">
           <Link className="navbar-brand nav-logo" to="/">
             <img
-              src="/assets/icon/igem.png"
+              src={igemLogo}
               alt="iGEM Logo"
               className="nav-logo-image"
             />
