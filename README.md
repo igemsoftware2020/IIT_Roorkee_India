@@ -2,6 +2,10 @@
 # IIT_Roorkee_India
 Machine Learning model for detecting Antibiotic Resistance genes and Django based REST API for predicting secondary structure of our novel engineered protein.
 
+### For visiting TailScout:
+http://ec2-13-233-147-170.ap-south-1.compute.amazonaws.com:8000/
+
+
 ## About
 Therapeutic-strategies targeting antibiotic resistance can be aimed at sensitizing pathogens to conventional antibiotics, or developing novel antimicrobials to treat infections. 
  
@@ -59,6 +63,8 @@ python manage.py runserver
 
 ### License
 Distributed under the MIT License. See ![LICENSE](https://github.com/igemsoftware2020/IIT_Roorkee_India/blob/main/LICENSE.md) for more information.
+
+
 
 
 
